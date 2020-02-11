@@ -30,13 +30,13 @@ export default class SectionTwo extends Component {
             <input type='checkbox'></input>1 1/2 cups heavy cream
           </label>
           <label className='checklist'>
-            <span className='line-through'></span>
-            <input type='checkbox' checked></input>
+            <span className='checkbox'></span>
+            <input type='checkbox'></input>
             1/3 granulated sugar
           </label>
           <label className='checklist'>
-            <span className='line-through'></span>
-            <input type='checkbox' checked></input>2 egg yolks
+            <span className='checkbox'></span>
+            <input type='checkbox'></input>2 egg yolks
           </label>
           <label className='checklist'>
             <input type='checkbox'></input>1 lemon, juiced
