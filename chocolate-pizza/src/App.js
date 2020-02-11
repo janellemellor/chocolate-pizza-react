@@ -15,6 +15,7 @@ export default class App extends Component {
           title={'Chocolate Pizza'}
           date={'15 Dec 2013'}
           category={'Desserts'}
+          chocoPizza={'choco-pizza.png'}
           pOne={
             'For the fig-swirl: Melt butter over medium heat in a saucepan. Add brown sugar and stir to dissolve. Halve all of the figs and toss in the saucepan with water and lemon juice. Cook over medium heat, stirring frequently, until you have a chunky-jammy mixture. Add salt with one or two stirs, set aside and let cool completely.'
           }

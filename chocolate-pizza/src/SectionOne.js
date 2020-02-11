@@ -14,6 +14,10 @@ export default class SectionOne extends Component {
           <div>
             <span>Print</span>
           </div>
+          <img
+            src={this.props.chocoPizza}
+            alt='a white chocolate covered pizza dessert with various candies on top'
+          />
         </div>
         <p> {this.props.pOne} </p>
         <p> {this.props.pTwo} </p>
